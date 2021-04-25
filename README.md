@@ -1,4 +1,4 @@
-## 🌟프로젝트 팀명
+## 프로젝트 팀명
 
 - KLUSH
 
@@ -20,12 +20,18 @@
 - 이병재
 - 황수민
 
+## 시연 영상
+https://youtu.be/B32hsgJaz10
+
 ## 프로젝트 소개
 
 ### 개발 기간
 2021.04.12 ~ 2021.04.23
 
 ### Stack
+
+#### Frontend
+- HTML/CSS, JavaScript, React, SCSS
 
 #### Backend
 - Python, Django, bcrypt, pyjwt, MySQL, AqueryTool, AWS EC2, AWS RDS
