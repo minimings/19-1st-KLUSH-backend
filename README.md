@@ -1,73 +1,44 @@
-## 프로젝트 팀명
+![캐러셀 기능](https://user-images.githubusercontent.com/74173368/128135993-bfe5aacd-0d26-4970-b0f3-136211b0f911.gif)
 
-- KLUSH
 
-## 프로젝트 개요
 
-- 위코드 1차 클론코딩 프로젝트로 핸드메이드 코스메틱 브랜드인 러쉬 코리아의 웹사이트를 모티브로 한 프로젝트입니다.
+## ✨ Project
+핸드메이드 코스메틱 브랜드인 러쉬 코리아의 웹사이트를 모티브로 한 프로젝트
 
-## 프로젝트 멤버
+## 🗓 Period
+- 2021.04.12 ~ 2021.04.23
 
-1. 프론트엔드
+## 👫 Team - Backend
+![KakaoTalk_Photo_2021-04-26-10-20-21](https://user-images.githubusercontent.com/74173368/128136004-57b41d67-1529-413e-9820-71130c728401.jpeg)
+- [김현영](https://github.com/hyun0k)
+- [이병재](https://github.com/redgpcmffld)
+- [황수민](https://github.com/miniming)
 
-- 정새미
-- 김희열
-- 김태현
+## ⚒️Skill
+Backend : <p><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AWS&logoColor=white"/></p>
+Tool : <p><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"/></p>
 
-2. 백엔드
+## 📑 Document
+[Aquery Tool URL](https://aquerytool.com/aquerymain/index/?rurl=27bac6ec-223e-4dc2-9c2a-3cf2df591762&) / Password : x7y031
 
-- 김현영
-- 이병재
-- 황수민
+[API Document URL](https://documenter.getpostman.com/view/15442239/TzJvfHg4)
 
-## 시연 영상
-https://youtu.be/B32hsgJaz10
 
-## 프로젝트 소개
+## 📝 내가 구현한 기능
+![장바구니 수량 변경 기능](https://user-images.githubusercontent.com/74173368/128135975-a9a06a38-8016-419f-846b-99242b7b14b3.gif)
 
-### 개발 기간
-2021.04.12 ~ 2021.04.23
+- 장바구니 C.R.U.D 기능 구현
+- 제품 리뷰 C.R.U.D 기능 구현
+- 로그인/회원가입 기능 구현
+- AWS RDS, EC2를 통해 배포
 
-### Stack
-
-#### Frontend
-- HTML/CSS, JavaScript, React, SCSS
-
-#### Backend
-- Python, Django, bcrypt, pyjwt, MySQL, AqueryTool, AWS EC2, AWS RDS
-
-#### Communication Tool
-- Slack, Trello, Github, Postman
-
-## 작업 내용
-
-### 모델링
-- AqueryTool을 이용한 ERD 작성
-
-### 엔드포인트 구현
-#### 김현영
-- 메인 페이지 Nav바 카테고리 데이터 전달 
-- 메인 페이지 상품 리스트 데이터 전달  
-- 상품 페이지 카테고리 별 상품 데이터 전달
-  - Query Parameter를 사용하여 검색, 정렬, 필터 기능 구현
-
-#### 황수민
-- 회원가입 유효성 검사 구현
-- bcrypt 사용 PW저장 및 JWT 사용 token 전송
-- 유저 인증 Decorator 로직 구현
-- 리뷰댓글 C.R.U.D API 생성
-- 장바구니 C.R.U.D API 생성
-- DB업로더 fakeseed 생성
-
-#### 이병재
-- 제품 상세 페이지 상품 데이터 전달
-- 제품에 별점 부여,출력 데이터 전달
-- 장바구니 CRUD 코드 리팩토링
-
-### 배포
-- AWS EC2에 가상환경 구축하여 프로젝트 배포
-- AWS RDS에 데이터베이스 구축
-
-## References
+-------------------
+## ✔︎ References
 - 이 프로젝트는 [러쉬 코리아](https://lush.co.kr/main/index.php)를 참고하여 학습목적으로 만들었습니다.
 - 이 프로젝트에서 사용한 이미지는 모두 [unsplashed](https://unsplash.com/)에서 가져온 이미지입니다.
