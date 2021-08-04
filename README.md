@@ -9,7 +9,6 @@
 - 2021.04.12 ~ 2021.04.23
 
 ## 👫 Team - Backend
-![KakaoTalk_Photo_2021-04-26-10-20-21](https://user-images.githubusercontent.com/74173368/128136004-57b41d67-1529-413e-9820-71130c728401.jpeg)
 - [김현영](https://github.com/hyun0k)
 - [이병재](https://github.com/redgpcmffld)
 - [황수민](https://github.com/miniming)
